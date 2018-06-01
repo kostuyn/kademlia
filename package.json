@@ -1,0 +1,8 @@
+{
+  "name": "kademlia",
+  "version": "0.0.1",
+  "dependencies": {
+    "bitwise": "^1.4.1",
+    "node-uuid": "^1.4.8"
+  }
+}
